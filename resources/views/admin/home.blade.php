@@ -121,7 +121,7 @@
 
               </tr>
             @empty
-              <h2 class="text-white ms-3">Nessun Castello Trovato</h2>
+              <h2 class=" ms-3">Nessun Castello Presente</h2>
             @endforelse
 
           </tbody>
